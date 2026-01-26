@@ -1,2 +1,4 @@
-# qr-code-files
-Repo for hosting files that can be shared with QR codes
+# QR Code Generation Instructions
+
+1. Upload file to "files" directory
+2. 
